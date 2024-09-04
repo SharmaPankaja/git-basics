@@ -7,3 +7,8 @@ function func2()
 {
     console.log("Another function added");
 }
+
+function func3()
+{
+    console.log("3rd function added");
+}
